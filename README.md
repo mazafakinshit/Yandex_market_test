@@ -1,2 +1,10 @@
-# Yandex_market_test
-successful search for an item on yandexmarket
+<h1>Я.Маркет тест</h1>
+
+<p>1. Тест на проверку поиска товара в Я.Маркете<p>
+<p>2. Наименование товара (yandexmarketitem) передаем из Environmet<p>
+<p>3. Проверяем, что в карточке товара на первой странице присутствует текст (iPhone)<p>
+<p>
+  
+<p> 
+
+<p><dfn>При помощи SelenideLogger.addListener в тест добавлена возможность смотреть Аллюр отчеты<dfn><p>
